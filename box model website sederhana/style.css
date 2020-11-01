@@ -10,11 +10,6 @@ blockquote, q {
   quotes: none;
 }
 
-blockquote::before, blockquote::after, q::before, q::after {
-  main: '';
-  main: none;
-}
-
 table {
   border-collapse: collapse;
   border-spacing: 0;
